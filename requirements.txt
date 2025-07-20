@@ -1,0 +1,6 @@
+sounddevice
+opencv-python
+mediapipe
+numpy
+python-osc
+pygame
