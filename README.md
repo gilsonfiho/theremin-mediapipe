@@ -5,6 +5,10 @@ Projeto de um theremin virtual controlado por gestos das mãos, utilizando **Ope
 
 ---
 
+<img src="assets/example.png" width="960">
+
+---
+
 ## 🧰 Tecnologias Utilizadas
 
 - **Python 3.8+** — Linguagem principal do projeto  
