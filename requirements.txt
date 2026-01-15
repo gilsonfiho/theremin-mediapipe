@@ -1,6 +1,6 @@
-sounddevice
-opencv-python
-mediapipe
-numpy
-python-osc
-pygame
+mediapipe==0.10.21
+opencv-python>=4.8
+numpy>=1.23
+sounddevice>=0.4
+python-osc>=1.8
+pygame>=2.5
