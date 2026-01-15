@@ -41,14 +41,14 @@ pip install -r requirements.txt
 
 - Baixe o Sonic Pi: [https://sonic-pi.net/downloads](https://sonic-pi.net/downloads)
 - Abra o Sonic Pi
-- Copie um dos scripts da pasta `ruby_sonicPi` para um buffer do Sonic Pi
+- Copie um dos tracks da pasta `ruby_sonicPi` para um buffer do Sonic Pi
 - Execute esse código — ele escutará as mensagens OSC enviadas pelo script Python
 
 ---
 
 ## 🎮 Como Usar
 
-1. **Abra o Sonic Pi** e inicie o código OSC (conforme passo 3 acima)
+1. **Abra o Sonic Pi** e execute o track OSC (conforme passo 3 acima)
 
 2. **Execute o script Python**:
 ```bash
